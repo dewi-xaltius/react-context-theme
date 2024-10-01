@@ -1,6 +1,6 @@
 import React from 'react';
-import { ThemeProvider } from './ThemeContext';
-import ThemeToggle from './ThemeToggle';
+import { ThemeProvider } from './components/ThemeContext';
+import ThemeToggle from './components/ThemeToggle';
 import './App.css';
 
 const App = () => {
